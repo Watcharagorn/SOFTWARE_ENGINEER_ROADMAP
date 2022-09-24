@@ -2,12 +2,13 @@
 
 ## BASIC
 - Datastructure & Algorithm
-
+- Searching Algorithm
 
 ## BACK-END
 ### Code Control
 - GIT
 - Branch Strategy
+- VM & Container ( docker, cubernates )
 
 ### Cloud Provider
 - GCP ( Google cloud platform )
@@ -34,3 +35,5 @@
   - Key-Value Database
   - Document Database
   - Graph Database
+
+## Front-End
